@@ -4,6 +4,9 @@ A full-stack blog platform where users can create posts, like posts, and interac
 Built with React, Node.js, Express, MongoDB, and TailwindCSS.
 
 This project demonstrates full-stack development, REST API design, authentication, and modern UI styling.
+<img width="1046" height="911" alt="Screenshot 2026-03-10 160356" src="https://github.com/user-attachments/assets/a51cacb4-9c7f-4806-b7b5-544f05cb3ae1" />
+
+
 
 Features
 Authentication
