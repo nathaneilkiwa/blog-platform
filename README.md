@@ -6,7 +6,7 @@ Built with React, Node.js, Express, MongoDB, and TailwindCSS.
 This project demonstrates full-stack development, REST API design, authentication, and modern UI styling.
 <img width="1046" height="911" alt="Screenshot 2026-03-10 160356" src="https://github.com/user-attachments/assets/a51cacb4-9c7f-4806-b7b5-544f05cb3ae1" />
 
-
+<img width="951" height="806" alt="Screenshot 2026-03-10 155952" src="https://github.com/user-attachments/assets/b5469f6a-fc5b-48e4-bc47-fb19ac483030" />
 
 Features
 Authentication
